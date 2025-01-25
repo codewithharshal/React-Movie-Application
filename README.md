@@ -1,8 +1,3 @@
-# React + Vite
+## React Movie Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A dynamic and user-friendly movie application built using React. The app allows users to explore and search for movies, view detailed information like poster, title, and year. Designed with an intuitive UI, it provides a seamless browsing experience with responsive design and smooth interactions.
